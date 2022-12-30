@@ -1,0 +1,21 @@
+.img_first {
+  border: solid #FF69B4 1px;
+  margin: 20px;
+  text-align: center;
+  letter-spacing: 3px;
+  display: inline-block;
+}
+
+.img_second {        
+  text-align: center;
+}
+
+.p_1 {
+  font-size: 13px;
+}
+
+.navvv {
+  margin: 30px;
+  margin-top: 2px;
+  margin-bottom: 2px;
+}
